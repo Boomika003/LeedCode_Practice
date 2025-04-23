@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Boomika003/LeedCode_Practice/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Boomika003/LeedCode_Practice/tree/master/0036-valid-sudoku) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Boomika003/LeedCode_Practice/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Boomika003/LeedCode_Practice/tree/master/0036-valid-sudoku) |
 ## Matrix
 |  |
