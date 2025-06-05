@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/0088-merge-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/Boomika003/LeedCode_Practice/tree/master/0171-excel-sheet-column-number) |
+## String
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/Boomika003/LeedCode_Practice/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
