@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Boomika003/LeedCode_Practice/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Boomika003/LeedCode_Practice/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/Boomika003/LeedCode_Practice/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Boomika003/LeedCode_Practice/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [1677-matrix-diagonal-sum](https://github.com/Boomika003/LeedCode_Practice/tree/master/1677-matrix-diagonal-sum) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/Boomika003/LeedCode_Practice/tree/master/0274-h-index) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Boomika003/LeedCode_Practice/tree/master/0053-maximum-subarray) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Boomika003/LeedCode_Practice/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
