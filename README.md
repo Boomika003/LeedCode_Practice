@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Boomika003/LeedCode_Practice/tree/master/0171-excel-sheet-column-number) |
+| [1250-longest-common-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/1250-longest-common-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Boomika003/LeedCode_Practice/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Boomika003/LeedCode_Practice/tree/master/0416-partition-equal-subset-sum) |
+| [1250-longest-common-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/1250-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
