@@ -1,22 +1,18 @@
 class Solution {
     public String kthDistinct(String[] arr, int k) {
-       int Count = 0;
-        for (int i = 0; i < arr.length; i++) {
-            if (isDistinct(arr, i)) {
+      Map<String, Integer> Map = new LinkedHashMap<>();
+        for (String s : arr) {
+            Map.put(s, Map.getOrDefault(s, 0) + 1);
+        }
+        int Count = 0;
+        for (String s : Map.keySet()) {
+            if (Map.get(s)==1) {
                 Count++;
-                if (Count == k) {
-                    return arr[i];
+                if (Count==k) {
+                    return s;
                 }
             }
         }
         return "";
-    }
-    private boolean isDistinct(String[] arr, int index) {
-        for (int i = 0; i < arr.length; i++) {
-            if (i != index && arr[i].equals(arr[index])) {
-                return false;
-            }
-        }
-        return true;
     }
 }
