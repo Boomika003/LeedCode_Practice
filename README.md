@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Boomika003/LeedCode_Practice/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Boomika003/LeedCode_Practice/tree/master/0171-excel-sheet-column-number) |
+| [0392-is-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/1250-longest-common-subsequence) |
 ## Binary Search
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Boomika003/LeedCode_Practice/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Boomika003/LeedCode_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [1250-longest-common-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/1250-longest-common-subsequence) |
 ## Divide and Conquer
