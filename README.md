@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Boomika003/LeedCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Boomika003/LeedCode_Practice/tree/master/0416-partition-equal-subset-sum) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Boomika003/LeedCode_Practice/tree/master/1677-matrix-diagonal-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Boomika003/LeedCode_Practice/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Boomika003/LeedCode_Practice/tree/master/0036-valid-sudoku) |
 | [0347-top-k-frequent-elements](https://github.com/Boomika003/LeedCode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Matrix
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Boomika003/LeedCode_Practice/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Boomika003/LeedCode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Simulation
 |  |
