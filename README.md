@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Boomika003/LeedCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Boomika003/LeedCode_Practice/tree/master/0416-partition-equal-subset-sum) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Boomika003/LeedCode_Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Boomika003/LeedCode_Practice/tree/master/1677-matrix-diagonal-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Boomika003/LeedCode_Practice/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Boomika003/LeedCode_Practice/tree/master/0054-spiral-matrix) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Boomika003/LeedCode_Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Boomika003/LeedCode_Practice/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Boomika003/LeedCode_Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Boomika003/LeedCode_Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
