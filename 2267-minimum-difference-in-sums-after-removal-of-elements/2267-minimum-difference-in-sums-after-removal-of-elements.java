@@ -1,29 +1,50 @@
 class Solution {
-    public long minimumDifference(int[] nums) {
-        int n = nums.length / 3;
-        long[] leftSum = new long[nums.length];
-        long[] rightSum = new long[nums.length];
-        PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
-        long sum = 0;
-        for (int i = 0; i < nums.length; i++) {
-            sum += nums[i];
-            maxHeap.add(nums[i]);
-            if (maxHeap.size() > n) sum -= maxHeap.poll();
-            leftSum[i] = sum;
-        }
-        PriorityQueue<Integer> minHeap = new PriorityQueue<>();
-        sum = 0;
-        for (int i = nums.length - 1; i >= 0; i--) {
-            sum += nums[i];
-            minHeap.add(nums[i]);
-            if (minHeap.size() > n) sum -= minHeap.poll();
-            rightSum[i] = sum;
-        }
+ public long minimumDifference(int[] nums) {
+     int n = nums.length, k = n / 3;
+     long[] leftMins = new long[n];   // sum of k smallest from left
+     long[] rightMaxs = new long[n];  // sum of k largest from right
+     long leftSum = 0, rightSum = 0, minDiff = Long.MAX_VALUE;
 
-        long ans = Long.MAX_VALUE;
-        for (int i = n - 1; i < 2 * n; i++) {
-            ans = Math.min(ans, leftSum[i] - rightSum[i + 1]);
-        }
-        return ans;
-    }
+     PriorityQueue<Integer> maxLeftHeap = new PriorityQueue<>((a, b) -> b - a); // max-heap
+     PriorityQueue<Integer> minRightHeap = new PriorityQueue<>();              // min-heap
+
+     // Build leftMins
+     for (int i = 0; i < k; i++) {
+         maxLeftHeap.offer(nums[i]);
+         leftSum += nums[i];
+     }
+     leftMins[k - 1] = leftSum;
+
+     for (int i = k; i < n - k; i++) {
+         int x = nums[i];
+         if (x < maxLeftHeap.peek()) {
+             leftSum += x - maxLeftHeap.poll();
+             maxLeftHeap.offer(x);
+         }
+         leftMins[i] = leftSum;
+     }
+
+     // Build rightMaxs
+     for (int i = n - 1; i >= n - k; i--) {
+         minRightHeap.offer(nums[i]);
+         rightSum += nums[i];
+     }
+     rightMaxs[n - k] = rightSum;
+
+     for (int i = n - k - 1; i >= k - 1; i--) {
+         int x = nums[i];
+         if (x > minRightHeap.peek()) {
+             rightSum += x - minRightHeap.poll();
+             minRightHeap.offer(x);
+         }
+         rightMaxs[i] = rightSum;
+     }
+
+     // Find minimum difference
+     for (int i = k - 1; i < n - k; i++) {
+         minDiff = Math.min(minDiff, leftMins[i] - rightMaxs[i + 1]);
+     }
+
+     return minDiff;
+ }
 }
