@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Boomika003/LeedCode_Practice/tree/master/1677-matrix-diagonal-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Boomika003/LeedCode_Practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Boomika003/LeedCode_Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Hash Table
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Boomika003/LeedCode_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [1250-longest-common-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Boomika003/LeedCode_Practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Boomika003/LeedCode_Practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Boomika003/LeedCode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Boomika003/LeedCode_Practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Bucket Sort
 |  |
 | ------- |
