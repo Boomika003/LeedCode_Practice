@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Boomika003/LeedCode_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/1250-longest-common-subsequence) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Boomika003/LeedCode_Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Boomika003/LeedCode_Practice/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Search
