@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Boomika003/LeedCode_Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Boomika003/LeedCode_Practice/tree/master/1677-matrix-diagonal-sum) |
+| [1813-maximum-erasure-value](https://github.com/Boomika003/LeedCode_Practice/tree/master/1813-maximum-erasure-value) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Boomika003/LeedCode_Practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Boomika003/LeedCode_Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Boomika003/LeedCode_Practice/tree/master/0036-valid-sudoku) |
 | [0347-top-k-frequent-elements](https://github.com/Boomika003/LeedCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/Boomika003/LeedCode_Practice/tree/master/1813-maximum-erasure-value) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Matrix
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Boomika003/LeedCode_Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/Boomika003/LeedCode_Practice/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
