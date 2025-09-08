@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Boomika003/LeedCode_Practice/tree/master/0171-excel-sheet-column-number) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Boomika003/LeedCode_Practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Boomika003/LeedCode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Boomika003/LeedCode_Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
