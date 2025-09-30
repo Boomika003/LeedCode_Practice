@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Boomika003/LeedCode_Practice/tree/master/1813-maximum-erasure-value) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Boomika003/LeedCode_Practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Boomika003/LeedCode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Boomika003/LeedCode_Practice/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Hash Table
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Boomika003/LeedCode_Practice/tree/master/0171-excel-sheet-column-number) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Boomika003/LeedCode_Practice/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Boomika003/LeedCode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Boomika003/LeedCode_Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Boomika003/LeedCode_Practice/tree/master/0054-spiral-matrix) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Boomika003/LeedCode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
