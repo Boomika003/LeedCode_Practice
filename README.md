@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Boomika003/LeedCode_Practice/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Boomika003/LeedCode_Practice/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3336-water-bottles-ii](https://github.com/Boomika003/LeedCode_Practice/tree/master/3336-water-bottles-ii) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Boomika003/LeedCode_Practice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Boomika003/LeedCode_Practice/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/Boomika003/LeedCode_Practice/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/Boomika003/LeedCode_Practice/tree/master/3336-water-bottles-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
