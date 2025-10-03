@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Boomika003/LeedCode_Practice/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Boomika003/LeedCode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/Boomika003/LeedCode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Boomika003/LeedCode_Practice/tree/master/0416-partition-equal-subset-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Boomika003/LeedCode_Practice/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Boomika003/LeedCode_Practice/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Boomika003/LeedCode_Practice/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Boomika003/LeedCode_Practice/tree/master/0054-spiral-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Boomika003/LeedCode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Boomika003/LeedCode_Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Boomika003/LeedCode_Practice/tree/master/1677-matrix-diagonal-sum) |
 ## Two Pointers
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Boomika003/LeedCode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/Boomika003/LeedCode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Boomika003/LeedCode_Practice/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Bucket Sort
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Boomika003/LeedCode_Practice/tree/master/0407-trapping-rain-water-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Boomika003/LeedCode_Practice/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Greedy
 |  |
