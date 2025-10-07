@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/Boomika003/LeedCode_Practice/tree/master/0171-excel-sheet-column-number) |
 | [0392-is-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/0392-is-subsequence) |
+| [0812-rotate-string](https://github.com/Boomika003/LeedCode_Practice/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/Boomika003/LeedCode_Practice/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Boomika003/LeedCode_Practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Boomika003/LeedCode_Practice/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Boomika003/LeedCode_Practice/tree/master/2324-find-triangular-sum-of-an-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Boomika003/LeedCode_Practice/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
